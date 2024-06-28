@@ -26,8 +26,7 @@ conda deactivate
 conda env create -f environment.yml
 ```
 
-4 . Now it's time to activate the env.
-
+4. Now, it's time to activate the new env.
 ```bash
 conda activate env_name
 ```
