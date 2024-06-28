@@ -1,4 +1,4 @@
-# barbell Exercises Prediction
+# Barbell Exercises Prediction
 
 This repository was made with the aim of create Python scripts to process, visualize, and model accelerometer and gyroscope data to create a machine learning model that can classify barbell exercises. The data is from [Mbientlab's WristBand Sensor Research Kit](https://mbientlab.com/) and was collected during gym workouts where participants were performing various barbell exercises.
 
