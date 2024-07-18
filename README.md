@@ -1,4 +1,4 @@
-<p align = 'center'><img width=200 src = 'reports/figures/barbell.png'></p>
+<p align = 'center'><img width=200 src = 'reports/figures/giphy.gif'></p>
 <h1 align = 'center'>Barbell Exercises Classification</h1>
 
 
