@@ -1,6 +1,6 @@
-# Barbell Exercises Classification
+<p align = 'center'><img width=200 src = 'reports/figures/barbell.png'></p>
+<h1 align = 'center'>Barbell Exercises Classification</h1>
 
-<img src = 'reports/figures/Default_A_vibrant_cartoon_man_with_exaggerated_muscular_featur_0.jpg'>
 
 This repository was made with the aim of create Python scripts to process, visualize, and model accelerometer and gyroscope data to create a machine learning model that can classify barbell exercises. The data is from [Mbientlab's WristBand Sensor Research Kit](https://mbientlab.com/) and was collected during gym workouts where participants were performing various barbell exercises.
 
