@@ -1,4 +1,4 @@
-<p align = 'center'><img width=200 src = 'reports/figures/giphy.gif'></p>
+<p align = 'center'><img width=150 src = 'reports/figures/A friendly shark doing barbell exercises with a black background in a high quality pixel art.png'></p>
 <h1 align = 'center'>Barbell Exercises Classification</h1>
 
 
